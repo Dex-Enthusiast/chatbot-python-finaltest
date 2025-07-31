@@ -27,10 +27,10 @@ Langkah Langkah Awal : </br>
 3. Klik terminal yang ada di laragon
 4. Buat database agar bisa mengimport file "travel_bot.sql" menjadi database, ketik : </br>
    ```Command :
-   1. mysql -u root
-   2. CREATE DATABASE travel_bot; # Buat database dengan nama yang sama 
-      EXIT;
-   3. mysql -u root travel_bot < travel_bot.sql # Command untuk mengimport file travel_bot.sql ke dalam database yang baru saja di buat
+   - mysql -u root
+   - CREATE DATABASE travel_bot; # Buat database dengan nama yang sama 
+   - EXIT;
+   - mysql -u root travel_bot < travel_bot.sql # Command untuk mengimport file travel_bot.sql ke dalam database yang baru saja di buat
 5. Install dulu library untuk connect in mysql dengan python nya : </br>
   ```pip install mysql-connector-python```
 6. Jalankan bot, ketik : </br>
