@@ -1,9 +1,10 @@
 ----------------------------------------
 
-<h1>Tutorial MengInstall Bot Nyaa </h1>
+<h1>Tutorial Menginstall Bot Nya </h1>
+
 </br>
 </br>
-</br>
+
 Alat Alat Yang Di Butuhkan : </br>
 1. Software Web Server Stack : </br>
     - Laragon Versi 6 (minimal) </br>
