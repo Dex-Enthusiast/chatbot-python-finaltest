@@ -34,7 +34,9 @@ Langkah Langkah Awal : </br>
 5. Install dulu library untuk connect in mysql dengan python nya : </br>
   ```pip install mysql-connector-python```
 6. Jalankan bot, ketik : </br>
-   ```python chatbot_tracel.py```
+   ```
+   python chatbot_travel.py
+   
 </br>
 
 *Instalasi Melewati XAMPP :* </br>
