@@ -1,5 +1,9 @@
 ----------------------------------------
 
+<h1>Tutorial MengInstall Bot Nyaa </h1>
+</br>
+</br>
+</br>
 Alat Alat Yang Di Butuhkan : </br>
 1. Software Web Server Stack : </br>
     - Laragon Versi 6 (minimal) </br>
@@ -22,7 +26,7 @@ Langkah Langkah Awal : </br>
 
 *Instalasi Melewati Laragon :* </br>
 1. Pindahkan folder  example ke folder "www" yang ada di laragon </br>
-   contoh path(alamat) : ``` D:\laragon\www\ ```     <---- taruh di path ini
+   Contoh path(Alamat) : ``` D:\laragon\www\ ```     <---- taruh di path ini
 2. Nyalakan laragon, klik "Start All"
 3. Klik terminal yang ada di laragon
 4. Buat database agar bisa mengimport file "travel_bot.sql" menjadi database, ketik : </br>
@@ -36,7 +40,8 @@ Langkah Langkah Awal : </br>
 6. Jalankan bot, ketik : </br>
    ```
    python chatbot_travel.py
-   
+</br>
+</br>
 </br>
 
 *Instalasi Melewati XAMPP :* </br>
